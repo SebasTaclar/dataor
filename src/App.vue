@@ -5,7 +5,7 @@
       <RouterLink class="link-navbar home" to="/" @click="closeMobileMenu">
         <div class="brand-container">
           <div class="brand-info">
-            <div class="brand-title">DigitalWallpapers<span class="highlight">Moto</span></div>
+            <div class="brand-title">Data.Or<span class="highlight">Company</span></div>
           </div>
         </div>
       </RouterLink>
